@@ -1,6 +1,6 @@
 ## Fourat Ammari
 
-- 🔭 Computer science student at UT3
+- 🔭 Computer science student at University of Toulouse
 - 🎬​ Filmmaker and video editor
 - 🌱 Actively learning about open source
 
